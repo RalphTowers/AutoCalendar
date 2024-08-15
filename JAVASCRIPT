@@ -5,7 +5,7 @@
  * 
  * Instructions:
  * - Modify the constants for calendarId, sheetName, and column ranges as needed.
- * - Set up a trigger to run the script periodically (e.g., every 2 hours) if desired.
+ * - Set up a trigger to run the script periodically (e.g., every 3 hours) if desired.
  */
 
 function createCalendarEvents() {
