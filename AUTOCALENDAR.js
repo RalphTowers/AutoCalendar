@@ -3,7 +3,7 @@
  * It processes rows starting from a specified row and continues until the last row with data.
  * The script is designed to resume from the last processed row in each execution.
  * 
- * Instructions:
+ * Instructions
  * - Modify the constants for calendarId, sheetName, and column ranges as needed.
  * - Set up a trigger to run the script periodically (e.g., every 3 hours) if desired.
  */
